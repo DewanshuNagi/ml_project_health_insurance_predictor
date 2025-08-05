@@ -42,17 +42,13 @@ scikit-learn – Model training and preprocessing
 joblib – Model serialization
 
 📁 Project Layout
-
 bash
-
 Copy
-
 Edit
-
 ml_project_health_insurance_predictor/
 │
 ├── main.py                  # Streamlit app entry point
-├── prediction_helper.py     # Contains preprocessing & prediction logic
+├── prediction_helper.py     # Preprocessing & prediction logic
 ├── requirements.txt         # Project dependencies
 ├── README.md                # Documentation
 ├── Artifacts/               # Folder containing trained models
