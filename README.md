@@ -34,8 +34,11 @@ A web-based machine learning application built using **Streamlit** that estimate
 
 📚 Tech Stack
 streamlit – UI framework
+
 pandas / numpy – Data manipulation
+
 scikit-learn – Model training and preprocessing
+
 joblib – Model serialization
 
 📁 Project Layout
